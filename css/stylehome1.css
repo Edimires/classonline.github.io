@@ -1,0 +1,91 @@
+
+
+    body{
+	background: #D1F2EB;
+    }
+
+    div.card-body{
+    background: #D1F2EB;
+    }
+    .card {
+    margin: 150px;
+    padding: 10px;
+    width:29%;
+    float:left;
+    }
+  
+  @media (max-width: 500px) {
+    
+    .card {
+      width:auto;
+      float:none;
+    }
+    
+  }
+  h3{
+    margin-top: 155px;
+    padding-left: 40px;
+  }
+
+  #divClase{
+    float: left;
+    padding-left:15px;
+    margin-top: 35px;
+    padding-top: 50px;
+    width: 500px;
+  }
+  #divInfo{
+    float: right;
+    padding-left: 15px;
+    margin-top: 45px;
+    padding-top: 45px;
+    padding-left: 10px;
+    width: auto;
+    padding-bottom: 20px;
+  }
+  p{
+    text-align: justify;
+
+  }
+  section{
+    border:  1 solid ;
+    padding: 15px;
+    display: inline;
+    max-width: 560px;
+    max-height: fit-content;
+
+  }
+  #video{
+    margin-top: 25px;
+    padding-left: 25px;
+  }
+  #makeTest{    
+    width: 500px;
+    height: 200px;
+    padding-top: 45px;
+    padding-bottom: 75px;
+    visibility: visible;
+    padding-left: 400px;
+    float: left;
+  }
+  #botoncillo{
+    padding: auto;
+    float: center;
+    width: 250px;
+    color: rgba(17, 17, 70, 0.897);
+    background: rgba(6, 164, 255, 0.938);
+    height: 45px;
+    border: 0;
+  }
+
+  .footer-copyright{
+    margin-top: 20px; 
+    background: #D5D8DC;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    }  

@@ -1,0 +1,56 @@
+form {
+    font:normal 13px sans-serif;
+    display: block;
+    background: rgba(188, 226, 255, 0.9);
+    padding: 40px;
+    padding-bottom: 20px;
+    min-width: 500px;
+    margin-bottom: 0;
+}
+div {
+    margin-top: 0;
+    background: rgba(188, 226, 255, 0.9);
+    padding-left: 40px;
+    padding-top: 0;
+    
+}
+
+h2{
+    color: rgb(190, 75, 9);
+    font: normal 45px sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+#results{
+    display: block;
+    background: royalblue;
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+    position: relative;
+    
+}
+
+button{
+    padding-top: 0;
+    margin-top: 7px;
+    display: block;
+    width: 125px;
+    background: rgb(193, 201, 226);
+    border-radius: 5px;
+    height: 30px;
+    position: relative;
+}
+
+label{
+    font: normal 23px sans-serif;
+    display: inline-block;
+    padding-bottom: 20px;
+    background: seashell;
+    text-align: center;
+    min-height: 0; 
+    color: red; 
+      
+}
